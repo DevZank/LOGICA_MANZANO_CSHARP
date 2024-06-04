@@ -1,0 +1,14 @@
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\bin\Debug\net8.0\EXERCICIO_I.exe
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\bin\Debug\net8.0\EXERCICIO_I.deps.json
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\bin\Debug\net8.0\EXERCICIO_I.runtimeconfig.json
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\bin\Debug\net8.0\EXERCICIO_I.dll
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\bin\Debug\net8.0\EXERCICIO_I.pdb
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.AssemblyInfoInputs.cache
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.AssemblyInfo.cs
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.csproj.CoreCompileInputs.cache
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.dll
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\refint\EXERCICIO_I.dll
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.pdb
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\EXERCICIO_I.genruntimeconfig.cache
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_I\obj\Debug\net8.0\ref\EXERCICIO_I.dll

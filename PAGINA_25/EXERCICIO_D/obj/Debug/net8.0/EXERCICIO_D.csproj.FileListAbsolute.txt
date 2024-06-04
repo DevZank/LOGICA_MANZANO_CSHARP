@@ -1,0 +1,14 @@
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.AssemblyInfoInputs.cache
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.AssemblyInfo.cs
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.csproj.CoreCompileInputs.cache
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\bin\Debug\net8.0\EXERCICIO_D.exe
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\bin\Debug\net8.0\EXERCICIO_D.deps.json
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\bin\Debug\net8.0\EXERCICIO_D.runtimeconfig.json
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\bin\Debug\net8.0\EXERCICIO_D.dll
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\bin\Debug\net8.0\EXERCICIO_D.pdb
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.dll
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\refint\EXERCICIO_D.dll
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.pdb
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\EXERCICIO_D.genruntimeconfig.cache
+C:\Users\isaac.mjsilva\Desktop\CSHARP\PAGINA_25\EXERCICIO_D\obj\Debug\net8.0\ref\EXERCICIO_D.dll
