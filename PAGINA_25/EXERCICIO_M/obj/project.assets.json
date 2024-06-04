@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\isaac.mjsilva\\.nuget\\packages\\": {},
+    "C:\\Users\\amand\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_M\\EXERCICIO_M.csproj",
+      "projectUniqueName": "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_M\\EXERCICIO_M.csproj",
       "projectName": "EXERCICIO_M",
-      "projectPath": "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_M\\EXERCICIO_M.csproj",
-      "packagesPath": "C:\\Users\\isaac.mjsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_M\\obj\\",
+      "projectPath": "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_M\\EXERCICIO_M.csproj",
+      "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
+      "outputPath": "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_M\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\isaac.mjsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\amand\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

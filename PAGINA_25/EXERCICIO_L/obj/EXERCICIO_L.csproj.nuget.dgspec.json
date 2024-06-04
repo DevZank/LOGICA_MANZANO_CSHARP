@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj": {}
+    "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj": {
+    "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj",
+        "projectUniqueName": "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj",
         "projectName": "EXERCICIO_L",
-        "projectPath": "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj",
-        "packagesPath": "C:\\Users\\isaac.mjsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac.mjsilva\\Desktop\\CSHARP\\PAGINA_25\\EXERCICIO_L\\obj\\",
+        "projectPath": "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_L\\EXERCICIO_L.csproj",
+        "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
+        "outputPath": "D:\\Proa\\Jailson\\Logica_C#\\LOGICA_MANZANO_CSHARP\\PAGINA_25\\EXERCICIO_L\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\isaac.mjsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
