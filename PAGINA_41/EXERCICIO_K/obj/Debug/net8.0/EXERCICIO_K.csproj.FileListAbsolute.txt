@@ -1,0 +1,15 @@
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\bin\Debug\net8.0\EXERCICIO_K.exe
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\bin\Debug\net8.0\EXERCICIO_K.deps.json
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\bin\Debug\net8.0\EXERCICIO_K.runtimeconfig.json
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\bin\Debug\net8.0\EXERCICIO_K.dll
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\bin\Debug\net8.0\EXERCICIO_K.pdb
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.AssemblyInfoInputs.cache
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.AssemblyInfo.cs
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.csproj.CoreCompileInputs.cache
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.sourcelink.json
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.dll
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\refint\EXERCICIO_K.dll
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.pdb
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\EXERCICIO_K.genruntimeconfig.cache
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_41\EXERCICIO_K\obj\Debug\net8.0\ref\EXERCICIO_K.dll
