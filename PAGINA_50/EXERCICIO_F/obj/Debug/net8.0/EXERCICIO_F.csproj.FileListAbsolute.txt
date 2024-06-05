@@ -1,0 +1,15 @@
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\bin\Debug\net8.0\EXERCICIO_F.exe
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\bin\Debug\net8.0\EXERCICIO_F.deps.json
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\bin\Debug\net8.0\EXERCICIO_F.runtimeconfig.json
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\bin\Debug\net8.0\EXERCICIO_F.dll
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\bin\Debug\net8.0\EXERCICIO_F.pdb
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.AssemblyInfoInputs.cache
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.AssemblyInfo.cs
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.csproj.CoreCompileInputs.cache
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.sourcelink.json
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.dll
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\refint\EXERCICIO_F.dll
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.pdb
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\EXERCICIO_F.genruntimeconfig.cache
+D:\Proa\Jailson\Logica_C#\LOGICA_MANZANO_CSHARP\PAGINA_50\EXERCICIO_F\obj\Debug\net8.0\ref\EXERCICIO_F.dll
